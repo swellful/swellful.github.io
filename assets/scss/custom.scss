@@ -99,3 +99,22 @@
   background: none !important;
   background-color: transparent !important;
 }
+
+/* 테이블 헤더(첫 번째 row)만 점박이 배경, 나머지는 일반 배경 */
+.article-content table thead tr th {
+  background: var(--dot-bg-light) #fff;
+}
+.article-content table tbody tr th,
+.article-content table tbody tr td {
+  background: #ffffff;
+}
+
+:root[data-scheme="dark"] .article-content table thead tr th {
+  background: var(--dot-bg-dark) #282c34;
+  color: #f3f3f3;
+}
+:root[data-scheme="dark"] .article-content table tbody tr th,
+:root[data-scheme="dark"] .article-content table tbody tr td {
+  background: #424242;
+  color: #f3f3f3;
+}
