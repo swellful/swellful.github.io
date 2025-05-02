@@ -1,11 +1,12 @@
 # Configure main menu and social menu
-#main:
-#  - identifier: "home"
-#    name: "Home"
-#    url: "/"
-#    params:
-#      icon: "home"
-#      newtab: true
+main:
+ - identifier: "categories"
+   name: "Category"
+   url: "/categories"
+   weight: 2
+   params:
+     icon: "categories"
+     newtab: false
 
 social:
   - identifier: "github"
