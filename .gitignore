@@ -8,3 +8,4 @@ work
 .idea
 assets/jsconfig.json
 .obsidian
+**/template
