@@ -84,18 +84,6 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 </html>
 ```
 
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
 
 ### Diff code block
 
@@ -148,3 +136,22 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+
+한글도 우리 테스트 해보시죠?
+- 들여쓰기
+  - 들여쓰기2
+- 들여쓰기
+  - 안녕
+    > 인용문
+  - 하이
+    ```python
+    print("hello, world!")
+    ```
+    - 하이
+      ```python
+      print("hello, world!")
+      ```
+      - 하이
+        > print("hello, world!")
+      - ㅇㅇ
+    - ㅇㅇ
