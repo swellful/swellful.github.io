@@ -2,8 +2,8 @@
 title: "[호주 유학] 시드니대학교 석사 조건부 합격 받기까지: 나의 준비 과정 정리"
 description: 2026년 8월 입학으로 Conditional offer 를 받다!
 slug: usyd-conditional-offer
-date: 2025-05-05 00:29:00+0900
-image: image01.jpg
+date: 2025-05-06 01:38:09+0900
+image: image.jpg
 tags: 
 categories:
   - AUSSIE

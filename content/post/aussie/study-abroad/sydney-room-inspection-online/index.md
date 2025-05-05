@@ -2,12 +2,12 @@
 title: "[호주 유학] 시드니 온라인 집 투어 후기"
 description: 유학생들이 많이 사는 지역은 어딜까? 입국 전 온라인 임장을 하며 정리한 기록.
 slug: "\bsydney-room-inspection-online"
-date: 2025-05-06 01:34:23+0900
+date: 2025-05-06 01:37:25+0900
 image: image.jpg
 tags: 
 categories:
   - AUSSIE
-draft: true
+draft: false
 ---
 > 아직 입학까지는 시간이 많이 남았지만, 미리 시드니에서의 거주를 준비하고자 한국에서 호주 부동산 웹사이트들을 둘러보며 온라인 집 투어를 해봤던 내용을 간략히 남겨두려 합니다.
 
