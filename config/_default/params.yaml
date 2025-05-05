@@ -75,11 +75,11 @@ comments:
   enabled: true
   provider: giscus
   giscus:
-    repo: ""
-    repoID: ""
-    category: ""
-    categoryID: ""
-    mapping: ""
+    repo: "swellful/swellful.github.io"
+    repoID: "R_kgDOOi8nMw"
+    category: "Comments"
+    categoryID: "DIC_kwDOOi8nM84Cpyyb"
+    mapping: "pathname"
     lightTheme: ""
     darkTheme: ""
     reactionsEnabled: 1
